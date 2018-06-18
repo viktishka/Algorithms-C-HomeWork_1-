@@ -1,2 +1,2 @@
-# Algorithms-C-HomeWork_1-
-SelectionSort, InsertSort, ShellSort, QuickSort, MergeSort, RadixSort
+# Algorithms_HomeWork_1
+C++ Algorithms: SelectionSort, InsertSort, ShellSort, QuickSort, MergeSort, RadixSort
